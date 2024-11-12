@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+
+<script>
+    const valor = Number(prompt("Informe o valor do produto: "))
+    const pagamento = prompt("Como desejar fazer o pagamento\n (1 - pix) \n (2- cartão) \n(3-dinheiro)")
+    console.log(pagamento)
+
+    let desconto = valor * 0.10
+    let total = valor - desconto
+
+    switch (pagamento) {
+
+        case "1":
+        alert("Valor com 10% de desconto: " + total);
+        break;
+        
+        case "2":
+        let parcela = valor / 3;
+        alert(`Pago a vista ganha 10% de desconto: ${total} \nValor pode ser vidido em ate três vezes, Fica no valor de:  ${parcela}`);
+        break;
+
+        case "3":
+        alert("Valor com 10% de desconto: " + total);
+        break;
+    }
+</script>

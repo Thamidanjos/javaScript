@@ -1,0 +1,56 @@
+<!-- ex1_7.html -->
+   /*     
+     Joaquim 'e' dono do Restaurante Maria's Bar
+     Ele precisa de um algoritmo que
+     -Leia o valor do jantar
+     -Calcule a gorjeta do garçom
+     -Calcule o valor total
+     -Mostre a Taxa do Garçom e o valor total     
+   */
+
+<!--  ex1_8.html -->
+  /*
+
+     Elaborar um programa que leia a duração de uma
+     viagem em dias e horas.
+     Calcule e informe a duração total da viagem em número de horas.
+
+  */
+<!--  ex1_9.html -->
+  /*
+
+    Elaborar um programa que leia um número. Calcule e informe os seus vizinhos, ou
+seja, o número anterior e posterior.
+
+  */
+<!--  ex1_10.html -->
+  /*
+
+ Elaborar um programa para uma pizzaria, o qual leia o valor total de uma conta e quantos 
+clientes vão pagá-la. Calcule e informe o valor a ser pago por ser cliente.
+  */
+<!--  ex1_11.html -->
+  /*
+
+ Elaborar um programa para uma loja, o qual leia o preço de um produto e informe as opções
+de pagamento da loja. Calcule e informe o valor para pagamento à vista com 10% de  desconto
+e o valor em 3x.
+  */
+
+<!--  ex1_11.html -->
+  /*
+
+ Elaborar um programa que leia 2 notas de um aluno em uma disciplina.
+Calcule e informe a média das notas.
+  */
+<!-- desafio_01 ->
+
+Crie uma fórmula que  comprove se um triângulo é retângulo.
+
+Exemplo: como comprovar se um triângulo é retângulo?
+
+Um triângulo apresenta os lados com medidas 5 cm, 12 cm e 13 cm. Como saber se é um triângulo retângulo?
+
+Para provar que um triângulo retângulo é verdadeiro as medidas dos seus lados devem obedecer ao Teorema de Pitágoras.
+
+Como as medidas dadas satisfazem o teorema de Pitágoras, ou seja, o quadrado da hipotenusa é igual a soma do quadrado dos catetos, então podemos dizer que o triângulo é retângulo
